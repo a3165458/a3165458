@@ -25,9 +25,10 @@ Building stuff at the intersection of **AI × Crypto × Automation**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3165458&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=a3165458&layout=compact&theme=transparent&hide_border=true)
+<a href="https://github.com/a3165458">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=a3165458&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3165458&layout=compact&theme=radical&hide_border=true" />
+</a>
 
 </div>
 
