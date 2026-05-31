@@ -10,7 +10,6 @@
 
 #### 🔭 正在做的事
 
-- **arb-cex-dex** — Rust 实现的 CEX/DEX 跨所套利引擎
 - **yaobi-radar** — 550+ Binance 永续合约实时异常检测
 - **lighter-quant-bot** — 自动做市 & 爆仓监控
 - **AI Agent 基建** — 多智能体系统、LLM 工具链、知识图谱
